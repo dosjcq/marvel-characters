@@ -68,7 +68,7 @@ const useMarvelService = () => {
     getCharacter,
     clearError,
     getAllComics,
-    getAllComics,
+    getComics,
   };
 };
 
